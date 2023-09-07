@@ -2,6 +2,8 @@
 
 This project uses machine learning to guess the movement of a two-part pendulum system using limited data. The goal is to predict its unpredictable swings.
 
+![pendulum01-1837416705](https://github.com/elilouise/Double-Pendulum/assets/53550369/2c137b3b-1945-445d-b17e-facc51e89c6b)
+
 ## Features
 
 Design and Training of RNN: Utilize a Recurrent Neural Network to forecast the future positions of masses 
