@@ -30,3 +30,11 @@ Jupyter Notebook or any Python environment.
 
 Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
 
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/elilouise/Double-Pendulum-Prediction-RNN
+
+
+
