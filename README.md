@@ -20,3 +20,11 @@ $z_0= [π/2,0,π/2,0]$, leading to more intricate pendulum behaviors.
 Selective Training: Explore predictions when the RNN is trained solely using the coordinates of mass 
 $m_2$, without insights from mass $m_1$.
 
+## Getting Started
+
+Prerequisites
+Ensure you have the necessary libraries and tools installed, including:
+
+Jupyter Notebook or any Python environment.
+Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
+
