@@ -2,7 +2,7 @@
 
 This project entails the use of a machine learning model to predict the position of a double pendulum's lower mass, given incomplete system information. The challenge is to forecast chaotic behavior, which emerges naturally from the pendulum's equations of motion.
 
-Features
+## Features
 
 Design and Training of RNN: Utilize a Recurrent Neural Network to forecast the future positions of masses 
 $m_1$ and $m_2$ based on their cartesian coordinates, using the initial conditions 
