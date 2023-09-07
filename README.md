@@ -1,6 +1,6 @@
 # Double Pendulum Prediction
 
-This project uses machine learning to predict the movement of a two-part pendulum system using limited data. The goal is to predict its unpredictable swings.
+This project uses machine learning to guess the movement of a two-part pendulum system using limited data. The goal is to predict its unpredictable swings.
 
 ## Features
 
