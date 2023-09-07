@@ -22,7 +22,8 @@ $m_2$, without insights from mass $m_1$.
 
 ## Getting Started
 
-Prerequisites
+### Prerequisites
+
 Ensure you have the necessary libraries and tools installed, including:
 
 Jupyter Notebook or any Python environment.
