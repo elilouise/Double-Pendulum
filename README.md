@@ -27,5 +27,6 @@ $m_2$, without insights from mass $m_1$.
 Ensure you have the necessary libraries and tools installed, including:
 
 Jupyter Notebook or any Python environment.
+
 Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
 
