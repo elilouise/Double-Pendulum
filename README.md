@@ -1,6 +1,6 @@
 # Double Pendulum Prediction
 
-This project entails the use of a machine learning model to predict the position of a double pendulum's lower mass, given incomplete system information. The challenge is to forecast chaotic behavior, which emerges naturally from the pendulum's equations of motion.
+This project uses machine learning to predict the movement of a two-part pendulum system using limited data. The goal is to predict its unpredictable swings.
 
 ## Features
 
