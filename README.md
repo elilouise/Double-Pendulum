@@ -20,7 +20,7 @@ $z_0= [π/2,0,π/2,0]$, leading to more intricate pendulum behaviors.
 Selective Training: Explore predictions when the RNN is trained solely using the coordinates of mass 
 $m_2$, without insights from mass $m_1$.
 
-## Getting Started
+## Reproducing
 
 ### Prerequisites
 
@@ -32,9 +32,8 @@ Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
 
 ## Installation
 
-Clone the repository:
+Go to a directory where you want to clone the repository and run:
 
 git clone https://github.com/elilouise/Double-Pendulum-Prediction-RNN
 
-
-
+Launch Jupyter Notebook. Open the main notebook and follow along with the sections and comments for a guided experience. Feel free to modify parameters and model architectures to improve predictions.
