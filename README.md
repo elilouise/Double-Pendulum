@@ -30,7 +30,7 @@ Jupyter Notebook or any Python environment.
 
 Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
 
-## Installation
+### Installation
 
 Go to a directory where you want to clone the repository and run:
 
