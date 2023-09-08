@@ -34,6 +34,6 @@ Libraries: numpy, matplotlib, scipy, tensorflow (or your preferred ML library).
 
 Go to a directory where you want to clone the repository and run:
 
-git clone https://github.com/elilouise/Double-Pendulum-Prediction-RNN
+git clone https://github.com/elilouise/Double-Pendulum-Prediction-RNN.git
 
 Launch Jupyter Notebook. Open the main notebook and follow along with the sections and comments for a guided experience. Feel free to modify parameters and model architectures to improve predictions.
