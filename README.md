@@ -6,18 +6,18 @@ This project uses machine learning to guess the movement of a two-part pendulum 
 
 ## Features
 
-Design and Training of RNN: Utilize a Recurrent Neural Network to forecast the future positions of masses 
+Design and Training of RNN: Utilized a Recurrent Neural Network to forecast the future positions of masses 
 $m_1$ and $m_2$ based on their cartesian coordinates, using the initial conditions 
 $z_0 = [π/4,0,π/4,0] $
 
-Stability Analysis: Investigate how initial condition variations influence the RNN's performance.
+Stability Analysis: Investigated how initial condition variations influence the RNN's performance.
 
-Prediction Extent: Assess the network's capability to predict long-term future positions.
+Prediction Extent: Assessed the network's capability to predict long-term future positions.
 
-Complex Path Prediction: Implement the above steps but with a different set of initial conditions, 
+Complex Path Prediction: Implemented the above steps but with a different set of initial conditions, 
 $z_0= [π/2,0,π/2,0]$, leading to more intricate pendulum behaviors.
 
-Selective Training: Explore predictions when the RNN is trained solely using the coordinates of mass 
+Selective Training: Explored predictions when the RNN is trained solely using the coordinates of mass 
 $m_2$, without insights from mass $m_1$.
 
 ## Reproducing
